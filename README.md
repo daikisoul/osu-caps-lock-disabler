@@ -35,8 +35,6 @@ After downloading, you can place the script or executable in the Startup folder 
 
 By disabling the Caps Lock functionality while playing rhythm games, **osu-caps-lock-disabler** effectively prevents the annoying Caps Lock indicator light from appearing when accidentally toggling Caps Lock during gameplay.
 
-Enjoy uninterrupted gameplay without the distraction of unnecessary indicator lights!
-
 - **Inability to Use Caps Lock in-game**: While the script is active, Caps Lock functionality is disabled within the game to prevent interference with gameplay.
 
 
