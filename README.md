@@ -6,16 +6,16 @@ To use **osu-caps-lock-disabler**, follow these steps:
 
 Download version 1.1 of AutoHotkey from [here](https://www.autohotkey.com/download/1.1/).
 
-### Step 2: Install AutoHotkey
+### Step 2: Run osu-caps-lock-disabler
 
-After downloading the AutoHotkey installer, run the downloaded `.exe` file and follow the installation instructions.
+Once AutoHotkey is installed, you have two options:
 
-### Step 3: Run osu-caps-lock-disabler
+- **Option 1**: Run the Script Directly
 
-Once AutoHotkey is installed, you can run **osu-caps-lock-disabler** by either:
+   Download the `osucapslockdisabler.ahk` script from the repository [here](https://github.com/daikisoul/osu-caps-lock-disabler), and then double-click the downloaded script file to run it using AutoHotkey.
 
-- Downloading the script file `osucapslockdisabler.ahk` from the repository [here](https://github.com/daikisoul/osu-caps-lock-disabler), or
-- Cloning the repository:
+- **Option 2**: Download the Executable
 
-   ```sh
-   git clone https://github.com/daikisoul/osu-caps-lock-disabler
+   Alternatively, you can download the executable file directly from the [Releases](https://github.com/daikisoul/osu-caps-lock-disabler/releases) page.
+
+That's it! Now you can enjoy using osu-caps-lock-disabler.
