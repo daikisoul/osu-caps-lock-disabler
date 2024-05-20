@@ -22,7 +22,7 @@ After downloading, you can place the script or executable in the Startup folder 
 
 ## 💡 How It Works
 
-**osu-caps-lock-disabler** is a script designed to disable the Caps Lock key specifically when the game executable files such as `osu!.exe` or `quaver.exe` are detected. This prevents accidental toggling of Caps Lock while playing these games.
+**osu-caps-lock-disabler** is a script specifically crafted to prevent the annoyance of the Caps Lock indicator light appearing when accidentally enabling Caps Lock during gameplay in rhythm games such as osu! and Quaver.
 
 ### Key Features:
 
@@ -31,7 +31,11 @@ After downloading, you can place the script or executable in the Startup folder 
 - **Game Compatibility**: Works seamlessly with both osu! and Quaver.
 - **Automatic Execution**: Once placed in the Windows Startup folder, the script runs automatically with each system boot.
 
-### Limitations:
+### Light Indicator Prevention:
+
+By disabling the Caps Lock functionality while playing rhythm games, **osu-caps-lock-disabler** effectively prevents the annoying Caps Lock indicator light from appearing when accidentally toggling Caps Lock during gameplay.
+
+Enjoy uninterrupted gameplay without the distraction of unnecessary indicator lights!
 
 - **Inability to Use Caps Lock in-game**: While the script is active, Caps Lock functionality is disabled within the game to prevent interference with gameplay.
 
