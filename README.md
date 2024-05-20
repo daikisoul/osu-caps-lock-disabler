@@ -4,7 +4,7 @@ To use **osu-caps-lock-disabler**, follow these steps:
 
 ### Step 1: Download AutoHotkey 1.1
 
-Download version 1.1 of AutoHotkey from [here](https://www.autohotkey.com/download/1.1/).
+Download version 1.1 of AutoHotkey from [here]([https://www.autohotkey.com/download/1.1/](https://www.autohotkey.com/download/1.1/AutoHotkey112207_Install.exe)).
 
 ### Step 2: Run osu-caps-lock-disabler
 
